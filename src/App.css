@@ -1,0 +1,36 @@
+@import "https://fonts.googleapis.com/css2?family=Merriweather&Fira+Sans&display=swap";
+/* @import "https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap"; */
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.items {
+}
+/* input {
+  position: absolute;
+  top: 5%;
+  right: 50%;
+  height: 3rem;
+  font-size: 2rem;
+  transform: translate(50%, 5%);
+  background: transparent;
+  width: 10rem;
+  border-radius: 1rem;
+  border: none;
+  text-align: center;
+  color: transparent;
+} */
+
+/* input:hover {
+  background: grey;
+  opacity: 0.5rem;
+  color: white;
+}
+input:focus {
+  outline: none;
+} */
+.search-btn {
+  display: none;
+}
